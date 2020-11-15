@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Olympus Quiz</string>
+    <string name="questionText1">¿Quién es el dios del trueno?</string>
+    <string name="questionText2">¿Quién es el dios de los mares?</string>
+    <string name="questionText3">¿Quién es la diosa del amor?</string>
+    <string name="questionText4">¿Quién es la diosa de la hoguera y el hogar?</string>
+    <string name="questionText5">¿Quién gobierna el inframundo?</string>
+    <string name="questionText6">¿Quién es el dios de las artes?</string>
+    <string name="questionText7">¿Quién es la diosa de la agricultura?</string>
+    <string name="questionText8">¿Quién gobierna el olimpo?</string>
+    <string name="questionText9">¿Quién es el dios de la guerra?</string>
+    <string name="questionText10">¿A quién le convirtió atenea el pelo en serpientes?</string>
+    <string name="progressText">Question 1 of 10</string>
+    <string name="option1">Zeus</string>
+    <string name="option2">Poseidón</string>
+    <string name="option3">Thor</string>
+    <string name="option4">Ares</string>
+    <string name="option5">Afrodita</string>
+    <string name="option6">Hera</string>
+    <string name="option7">Atenea</string>
+    <string name="option8">Apolo</string>
+    <string name="option9">Artemisa</string>
+    <string name="option10">Hestia</string>
+    <string name="option11">Deméter</string>
+    <string name="option12">Medusa</string>
+    <string name="option13">Hermes</string>
+    <string name="option14">Hefesto</string>
+    <string name="option15">Hades</string>
+</resources>
